@@ -1,0 +1,24 @@
+{
+  "name": "hash19",
+  "version": "1.0.0",
+  "description": "HashCode 19 Entry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisBertrand/hash19.git"
+  },
+  "author": "HolyGuacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisBertrand/hash19/issues"
+  },
+  "homepage": "https://github.com/ChrisBertrand/hash19#readme",
+  "devDependencies": {
+    "@types/core-js": "^2.5.0",
+    "@types/node": "^11.9.5",
+    "typescript": "^3.3.3333"
+  }
+}
